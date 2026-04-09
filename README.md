@@ -72,13 +72,12 @@ Course   : Programming Hero — Frontend Track
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&hide_border=true" height="165"/>
+  
 </picture>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&hide_border=true" height="165"/>
 </picture>
 
 </div>
