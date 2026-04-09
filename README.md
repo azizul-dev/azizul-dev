@@ -65,13 +65,21 @@ Course   : Programming Hero — Frontend Track
 
 ---
 
-## 📊 GitHub Stats
+## 🌗 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&hide_border=true" height="165"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&hide_border=true" height="165"/>
+</picture>
 
 </div>
 
@@ -86,7 +94,7 @@ Course   : Programming Hero — Frontend Track
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizul-islam-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abdulazizabdul8822-gif)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azizul-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdulazizabdul8822@gmail.com)
 
 </div>
