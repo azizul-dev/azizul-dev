@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Azizul+Islam+👋;Frontend+Developer+from+Bangladesh+🇧🇩;Currently+Learning+React+Router+⚛️;Building+Cool+Projects+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Azizul+Islam+👋;Frontend+Developer+from+Bangladesh+🇧🇩;Currently+Learning+React+Router+⚛️;Building+Cool+Projects+Every+Day+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -57,12 +57,12 @@ Course   : Programming Hero — Frontend Track
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=azizul-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azizul-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
