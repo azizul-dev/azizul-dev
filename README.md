@@ -56,8 +56,7 @@ Course   : Programming Hero — Frontend Track
 
 | Project                                                         | Description                                        | Live                                              | Tech       |
 | --------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------- | ---------- |
-| 🛒 [PH Play Store](https://github.com/azizul-dev/ph-play-store) | Interactive play store UI with dynamic features    | [Live](https://ph-play-store-next.vercel.app/)   | JavaScript |
-| 🎬 [Movie Tracker](https://github.com/azizul-dev/movie-tracker) | Track and manage your favorite movies easily       | [Live](https://cinetrack-az0.netlify.app/)        | JavaScript |
+| 🌐 [Portfolio](https://github.com/azizul-dev) | Personal portfolio showcasing projects and skills | [Live](https://protfolio-ten-silk.vercel.app/) | Next.js || 🎬 [Movie Tracker](https://github.com/azizul-dev/movie-tracker) | Track and manage your favorite movies easily       | [Live](https://cinetrack-az0.netlify.app/)        | JavaScript |
 | 🖊️ [DigiTools](https://github.com/azizul-dev/book-vibe)         | Explore and organize your personal book collection | [Live](https://demo-assignment-gamma.vercel.app/) | JavaScript |
 | 🤝 [KeenKeeper](https://github.com/azizul-dev/assignment-7) | Personal relationship manager to stay close with friends | [Live](https://assignment-7-swart-one.vercel.app/) | Next.js |
 </div>
