@@ -12,7 +12,7 @@
 
 ```yaml
 Name     : Azizul Islam
-Role     : Frontend Developer
+Role     : Full Stack MERN Developer
 Institute: Satkhira Polytechnic Institute
 Semester : CST 7th Semester
 Field    : Computer Science & Technology
@@ -27,8 +27,9 @@ Course   : Programming Hero — Frontend Track
 
 * 🚀 Learning Next.js & modern React ecosystem
 * 🧠 Improving problem-solving skills
-* 🎯 Building real-world frontend projects
+* 🎯 Building real-world frontend and MERN projects
 * ⚡ Practicing clean UI & responsive design
+* 📚 Improving backend and database knowledge
 
 ---
 
@@ -42,6 +43,10 @@ Course   : Programming Hero — Frontend Track
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
@@ -54,11 +59,14 @@ Course   : Programming Hero — Frontend Track
 
 <div align="center">
 
-| Project                                                         | Description                                        | Live                                              | Tech       |
-| --------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------- | ---------- |
-| 🌐 [Portfolio](https://github.com/azizul-dev) | Personal portfolio showcasing projects and skills | [Live](https://protfolio-ten-silk.vercel.app/) | Next.js || 🎬 [Movie Tracker](https://github.com/azizul-dev/movie-tracker) | Track and manage your favorite movies easily       | [Live](https://cinetrack-az0.netlify.app/)        | JavaScript |
-| 🖊️ [DigiTools](https://github.com/azizul-dev/book-vibe)         | Explore and organize your personal book collection | [Live](https://demo-assignment-gamma.vercel.app/) | JavaScript |
-| 🤝 [KeenKeeper](https://github.com/azizul-dev/assignment-7) | Personal relationship manager to stay close with friends | [Live](https://assignment-7-swart-one.vercel.app/) | Next.js |
+| Project                                                         | Description                                                                                                                                                         | Live                                               | Tech                                                           |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------- |
+| 🌐 [Portfolio](https://github.com/azizul-dev)                   | Personal portfolio showcasing my projects, skills, developer journey, and contact information with a clean and responsive design.                                   | [Live](https://protfolio-ten-silk.vercel.app/)     | Next.js, React, Tailwind CSS                                   |
+| 📦 [Inventra](https://github.com/azizul-dev/inventra)           | Full-stack inventory management platform with authentication, inventory tracking, CRUD operations, responsive dashboard, and efficient product management features. | [Live](https://inventra-sandy.vercel.app/)         | React.js, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB |
+| 🎬 [Movie Tracker](https://github.com/azizul-dev/movie-tracker) | Movie discovery and tracking application allowing users to browse, search, and manage their favorite movies with a responsive user interface.                       | [Live](https://cinetrack-az0.netlify.app/)         | JavaScript, HTML5, CSS3                                        |
+| 🤝 [KeenKeeper](https://github.com/azizul-dev/assignment-7)     | Personal relationship management application that helps users organize, maintain, and strengthen meaningful relationships through a modern user experience.         | [Live](https://assignment-7-swart-one.vercel.app/) | Next.js, React, Tailwind CSS                                   |
+| 📚 [BookVibe](https://github.com/azizul-dev/assignment-9)       | Interactive book discovery and reading tracker featuring wishlist management, reading progress monitoring, responsive layouts, and smooth user experience.          | [Live](https://assignment-9-beta.vercel.app/)      | React.js, React Router, Tailwind CSS, JavaScript               |
+
 </div>
 
 ---
@@ -67,16 +75,11 @@ Course   : Programming Hero — Frontend Track
 
 <div align="center">
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-</picture>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -91,14 +94,16 @@ Course   : Programming Hero — Frontend Track
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizul-islam-dev)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azizul-dev)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdulazizabdul8822@gmail.com)
 
 </div>
 
 ---
 
-> 💡 “Code. Learn. Build. Repeat.”
+> 💡 "Code. Learn. Build. Improve. Repeat."
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
