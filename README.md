@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Azizul%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Azizul%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20MERN%20Developer%20%7C%20React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -16,6 +16,7 @@ Role     : Full Stack MERN Developer
 Institute: Satkhira Polytechnic Institute
 Semester : CST 7th Semester
 Field    : Computer Science & Technology
+Email    : abdulazizabdul8822@gmail.com
 Location : Bangladesh 🇧🇩
 Learning : React Router | Next.js | JavaScript
 Course   : Programming Hero — Frontend Track
@@ -61,6 +62,7 @@ Course   : Programming Hero — Frontend Track
 
 | Project | Description | Live | Tech |
 | --- | --- | --- | --- |
+| 🤖 [PantryPilot](https://github.com/azizul-dev/pantrypilot-client) | AI-powered recipe & pantry platform with Google Gemini integration for smart recipe suggestions, blogs, wishlist, ratings & reviews. | [Live](https://pantrypilot-client.vercel.app/) | Next.js, TypeScript, Node.js, Express.js, MongoDB, Google Gemini AI |
 | 📚 [InkSphere](https://github.com/azizul-dev/inksphere-client) | Full-stack ebook sharing platform with role-based dashboards for readers, writers, and admins — featuring Stripe payments, publishing workflow, and analytics dashboard. | [Live](https://inksphere-two.vercel.app/) | Next.js 15, React 19, Node.js, Express.js, MongoDB, Stripe, Better-Auth |
 | 🐱 [Pet Adoption Platform](https://github.com/azizul-dev/assignment-9) | Full-stack pet adoption platform with secure JWT authentication, protected routes, CRUD-based adoption workflow, and role-based dashboard. | [Live](https://assignment-9-beta.vercel.app/) | React.js, React Router, Tailwind CSS, Node.js, Express.js, MongoDB |
 | 🌐 [Portfolio](https://github.com/azizul-dev) | Personal portfolio showcasing my projects, skills, developer journey, and contact information with a clean and responsive design. | [Live](https://protfolio-ten-silk.vercel.app/) | Next.js, React, Tailwind CSS |
