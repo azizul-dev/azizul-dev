@@ -78,91 +78,17 @@ I enjoy turning ideas into practical, responsive, and user-friendly web applicat
 
 ---
 
-## ⚡ Technology Arsenal
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎨 Frontend & UI</h3>
+## ⚡ Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" width="100%" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Router-0B1220?style=for-the-badge&logo=reactrouter&logoColor=CA4245" /> <img src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+
+<img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express.js-0B1220?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=FFCA28" /> <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
 </div>
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📱 Mobile Development</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React_Native-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-</div>
-
-<h3 align="center">⚙️ Backend & API</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REST_API-0B1220?style=for-the-badge&logo=fastapi&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Swagger-0B1220?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🗄️ Database & Cloud</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" alt="PostgreSQL MongoDB Firebase" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Neon_Postgres-0B1220?style=for-the-badge&logo=neon&logoColor=00E599" />
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧰 Development Tools</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**BUILD** `→` **INTEGRATE** `→` **DEPLOY** `→` **IMPROVE**
-
-</div>
-
----
-
-
----
 
 ## 🚀 Featured Projects
 
